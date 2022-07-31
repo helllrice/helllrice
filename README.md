@@ -4,7 +4,7 @@
 - 💞️I invite to cooperation all Web-developers, designers, and people who are connected with it
 - 📫 How to reach me TG - @hell_rice , LINKEDLN - https://www.linkedin.com/in/vasiliy-elkin-943952206/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?helllrice=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihelllrice=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 VK - https://vk.com/helllrice
 <!---
