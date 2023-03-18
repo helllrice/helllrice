@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helllrice
 - 👀 I’m interested in frontend-development
-- 🌱 I’m currently learning JavaScript, React and PROFESSIONAL HTML5
+- 🌱 I’m currently learning JavaScript, React, Vue and PROFESSIONAL HTML5
 - 💞️I invite to cooperation all Web-developers, designers, and people who are connected with it
 - 📫 How to reach me TG - @helllrice , LINKEDLN - https://www.linkedin.com/in/vasiliy-elkin-943952206/
 
