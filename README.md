@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @helllrice
 - 👀 I’m interested in frontend-development
-- 🌱 I’m currently learning JavaScript, React, Vue and PROFESSIONAL HTML5
+- 🌱 I’m currently learning JavaScript, С#/.NET, React, Vue and PROFESSIONAL HTML5
 - 💞️I invite to cooperation all Web-developers, designers, and people who are connected with it
-- 📫 How to reach me TG - @helllrice , LINKEDLN - https://www.linkedin.com/in/vasiliy-elkin-943952206/
+- 📫 How to reach me TG - @helllrice
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helllrice&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
