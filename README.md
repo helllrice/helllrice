@@ -4,8 +4,6 @@
 - 💞️I invite to cooperation all Web-developers, designers, and people who are connected with it
 - 📫 How to reach me TG - @helllrice
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helllrice&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helllrice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
