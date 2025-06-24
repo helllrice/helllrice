@@ -4,6 +4,8 @@
 - 💞️I invite to cooperation all Web-developers, designers, and people who are connected with it
 - 📫 How to reach me TG - @helllrice
 
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=helllrice)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helllrice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
