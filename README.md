@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @helllrice
-- 👀 I’m interested in frontend-development
+- 👀 I’m interested in frontend
 - 🌱 I’m currently learning JavaScript, С#/.NET, React, Vue and PROFESSIONAL HTML5
-- 💞️I invite to cooperation all Web-developers, designers, and people who are connected with it
-- 📫 How to reach me TG - @helllrice
 
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=helllrice)](https://git.io/streak-stats)
 
