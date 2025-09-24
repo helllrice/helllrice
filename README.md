@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helllrice
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning JavaScript, С#/.NET, React, Vue and PROFESSIONAL HTML5
+- 🌱 I’m currently learning JavaScript, С#/.NET, React, Vue and PROFESSIONAL HTML5 
 
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=helllrice)](https://git.io/streak-stats)
 
